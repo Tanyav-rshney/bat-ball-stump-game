@@ -14,7 +14,7 @@ A fun mini-game built using **HTML, CSS, and JavaScript**, inspired by cricket �
 🔗 https://tanyav-rshney.github.io/bat-ball-stump-game/
 
 ## 📸 Preview
-screenshot.png
+![Bat Ball Stump Game Preview](screenshot.png)
 
 ## 🛠️ Tech Stack
 
